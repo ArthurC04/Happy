@@ -13,11 +13,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="#-nlw">Next Level Week 3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-nlw">Next Level Week 3</a>
+  <a href="#-project">Projeto</a>
+  <a href="#tecnlogies">Technologies</a>
+  <a href="#-layout">Layout</a>
+  <a href="#license">License</a>
 </p>
 
 ## 💻 Projeto
