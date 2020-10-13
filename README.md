@@ -47,7 +47,7 @@ $ yarn install
 # Start project
 $ yarn start
 
-# running on port 3000
+# Running on port 3000
 
 ## :memo: Licença
 
