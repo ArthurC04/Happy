@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#-nlw">Next Level Week 3</a>
   <a href="#-project">Projeto</a>
-  <a href="#tecnlogies">Technologies</a>
+  <a href="#tecnlogies">Tecnologias</a>
   <a href="#-layout">Layout</a>
   <a href="#license">License</a>
 </p>
