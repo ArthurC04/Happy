@@ -8,7 +8,7 @@
 <p align="center">	
   <img alt="NLW03" src="https://img.shields.io/badge/NLW-03-blue">
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
+  <a href="https://www.linkedin.com/in/arthur-castro-9a65521a0/">
     <img alt="Made by ArthurCastro" src="https://img.shields.io/badge/Made%20By-Arthur%20Castro-blue">
   </a>
 </p>
